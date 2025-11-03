@@ -1,6 +1,7 @@
 <!-- Profil banneri -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Salom%2C+men+Sunnatilla+Qoldoshbekov;Frontend+Dasturchi+🚀;HTML+%2F+CSS+%2F+JavaScript+lover!" alt="Typing SVG" />
+  ![Uploading ChatGPT Image 3 нояб. 2025 г., 14_11_31.png…]()
+
 </p>
 
 ---
