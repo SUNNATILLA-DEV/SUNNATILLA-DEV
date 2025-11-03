@@ -54,56 +54,6 @@ Men **Sunnatilla Qoldoshbekov**, frontend yo‘nalishida ishlaydigan yosh web da
 ---
 
 ⭐ Agar loyihalarim yoqsa — **star bosishni unutmang!**
-<!-- Profil banner -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/SunnatillaQoldoshbekov/qoldoshbekovsunnatilla-jpg/main/A_digital_graphic_design_displays_branding_for_SNT.png" 
-    alt="SNTech Banner" 
-    width="100%"
-  />
-</p>
-
----
-
-<!-- Ijtimoiy tarmoqlar -->
-<p align="center">
-  <a href="https://t.me/SNTech" target="_blank" style="
-      text-decoration: none;
-      background-color: #0088cc;
-      color: white;
-      padding: 10px 20px;
-      border-radius: 8px;
-      font-weight: bold;
-      margin: 5px;
-      display: inline-block;
-      font-family: Arial;
-    ">Telegram</a>
-
-  <a href="https://www.youtube.com/@SNTech" target="_blank" style="
-      text-decoration: none;
-      background-color: #ff0000;
-      color: white;
-      padding: 10px 20px;
-      border-radius: 8px;
-      font-weight: bold;
-      margin: 5px;
-      display: inline-block;
-      font-family: Arial;
-    ">YouTube</a>
-
-  <a href="https://www.instagram.com/sntech" target="_blank" style="
-      text-decoration: none;
-      background-color: #e4405f;
-      color: white;
-      padding: 10px 20px;
-      border-radius: 8px;
-      font-weight: bold;
-      margin: 5px;
-      display: inline-block;
-      font-family: Arial;
-    ">Instagram</a>
-</p>
-
 
 <!--
 **qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
