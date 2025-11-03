@@ -57,21 +57,44 @@ Men **Sunnatilla Qoldoshbekov**, frontend yo‘nalishida ishlaydigan yosh web da
 
 ## 🟩 My GitHub Activity
 
+
+<!-- Ijtimoiy tarmoqlar -->
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=qoldoshbekovsunnatilla-jpg&theme=react-dark&hide_border=true&area=true" 
-    alt="Sunnatilla's GitHub Activity Graph" 
-  />
-</p>
+  <a href="https://t.me/SNTech" target="_blank" style="
+      text-decoration: none;
+      background-color: #0088cc;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-weight: bold;
+      margin: 5px;
+      display: inline-block;
+      font-family: Arial;
+    ">Telegram</a>
 
+  <a href="https://www.youtube.com/@SNTech" target="_blank" style="
+      text-decoration: none;
+      background-color: #ff0000;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-weight: bold;
+      margin: 5px;
+      display: inline-block;
+      font-family: Arial;
+    ">YouTube</a>
 
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg/main/A_digital_graphic_design_displays_branding_for_SNT.png" 
-    alt="SNTech Banner" 
-    width="100%"
-  />
+  <a href="https://www.instagram.com/sntech" target="_blank" style="
+      text-decoration: none;
+      background-color: #e4405f;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-weight: bold;
+      margin: 5px;
+      display: inline-block;
+      font-family: Arial;
+    ">Instagram</a>
 </p>
 
 <!--
