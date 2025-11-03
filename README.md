@@ -66,11 +66,7 @@ Men **Sunnatilla Qoldoshbekov**, frontend yo‘nalishida ishlaydigan yosh web da
 
 
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg/blob/output/snake.svg" alt="snake animation" />
-</p>
-
+\
 <!--
 **qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
