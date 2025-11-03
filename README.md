@@ -1,6 +1,6 @@
 <!-- Profil banneri -->
 <p align="center">
-  <img src="https://github.com/<username>/<repository>/blob/main/banner.png" alt="SNTech Banner" width="100%">
+  <img src="https://github.com/<qoldoshbekovsunnatilla-jpg>/<repository>/blob/main/banner.png" alt="SNTech Banner" width="100%">
 </p>
 
 
