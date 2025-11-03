@@ -1,8 +1,8 @@
 <!-- Profil banneri -->
 <p align="center">
-  ![Uploading ChatGPT Image 3 нояб. 2025 г., 14_11_31.png…]()
-
+  <img src="https://github.com/SunnatillaQoldoshbekov/qoldoshbekovsunnatilla-jpg/blob/main/banner.png" alt="SNTech Banner" width="100%">
 </p>
+
 
 ---
 
