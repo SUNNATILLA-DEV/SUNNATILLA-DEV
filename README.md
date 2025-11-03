@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Salom%2C+men+Sunnatilla!;Frontend+Developer+🚀;HTML+%2F+CSS+%2F+JS+lover!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Salom%2C+men+Sunnatilla+Qoldoshbekov;Frontend+Dasturchi+🚀;HTML%2C+CSS%2C+JavaScript+mutaxassisi" alt="Typing SVG" />
 </p>
+
 
 
 
