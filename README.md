@@ -62,8 +62,6 @@ Men **Sunnatilla Qoldoshbekov**, frontend yo‘nalishida ishlaydigan yosh web da
 
 
 
-[![SNTech YouTube Video](https://img.youtube.com/vi/VIDEOKOD/0.jpg)](https://www.youtube.com/watch?v=VIDEOKOD)
-
 
 <!--
 **qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
