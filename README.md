@@ -55,6 +55,14 @@ Men **Sunnatilla Qoldoshbekov**, frontend yo‘nalishida ishlaydigan yosh web da
 
 ⭐ Agar loyihalarim yoqsa — **star bosishni unutmang!**
 
+## 🟩 My GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=qoldoshbekovsunnatilla-jpg&theme=react-dark&hide_border=true&area=true" 
+    alt="Sunnatilla's GitHub Activity Graph" 
+  />
+</p>
 
 <!--
 **qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
