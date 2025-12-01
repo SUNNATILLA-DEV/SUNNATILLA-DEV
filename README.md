@@ -59,6 +59,9 @@ Men **Sunnatilla Koldasbekov**, frontend yo‘nalishida ishlaydigan yosh web das
 
 <img width="1024" height="700" alt="SNTechuzbot textini " src="https://github.com/user-attachments/assets/a9c8dc12-92c9-4113-83e5-e3effc301d07" />
 
+Telegram bot:[ (https://t.me/sntech_blok_bot)]
+
+
 
 <!--
 **qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
