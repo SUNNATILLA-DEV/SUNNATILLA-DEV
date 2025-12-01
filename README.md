@@ -44,9 +44,9 @@ Men **Sunnatilla Koldasbekov**, frontend yo‘nalishida ishlaydigan yosh web das
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qoldoshbekovsunnatilla-jpg&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoldoshbekovsunnatilla-jpg&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
