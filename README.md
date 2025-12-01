@@ -24,9 +24,7 @@ Men **Sunnatilla Koldasbekov**, frontend yo‘nalishida ishlaydigan yosh web das
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,git,github,figma,vscode" />
-</p>
+
 
 ---
 
