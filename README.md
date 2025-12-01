@@ -52,12 +52,12 @@ Men **Sunnatilla Koldasbekov**, frontend yo‘nalishida ishlaydigan yosh web das
 
 <p align="center">
 
- <img width="1536" height="800" alt="ChatGPT Image 3 нояб  2025 г , 14_11_31" src="https://github.com/user-attachments/assets/fbf9fbed-e0c6-4db5-99ab-cf1bcd811c7e" />
+ <img width="1536" height="700" alt="ChatGPT Image 3 нояб  2025 г , 14_11_31" src="https://github.com/user-attachments/assets/fbf9fbed-e0c6-4db5-99ab-cf1bcd811c7e" />
 
 </p>
 
 
-<img width="1024" height="1024" alt="SNTechuzbot textini " src="https://github.com/user-attachments/assets/a9c8dc12-92c9-4113-83e5-e3effc301d07" />
+<img width="1024" height="700" alt="SNTechuzbot textini " src="https://github.com/user-attachments/assets/a9c8dc12-92c9-4113-83e5-e3effc301d07" />
 
 
 <!--
