@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Who am I?
 
-Men **Sunnatilla Qoldoshbekov**, frontend yo‘nalishida ishlaydigan yosh web dasturchiman.  
+Men **Sunnatilla Koldasbekov**, frontend yo‘nalishida ishlaydigan yosh web dasturchiman.  
 🌱 Hozirda HTML, CSS, JavaScript texnologiyalarini chuqur o‘rganmoqdaman.  
 🎯 Maqsadim — professional **web dasturchi** bo‘lish va real loyihalar yaratish.
 
