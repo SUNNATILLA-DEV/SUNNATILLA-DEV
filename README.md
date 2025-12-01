@@ -57,6 +57,7 @@ Men **Sunnatilla Koldasbekov**, frontend yo‘nalishida ishlaydigan yosh web das
 </p>
 
 
+<img width="1024" height="1024" alt="SNTechuzbot textini " src="https://github.com/user-attachments/assets/a9c8dc12-92c9-4113-83e5-e3effc301d07" />
 
 
 <!--
