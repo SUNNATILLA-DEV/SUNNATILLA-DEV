@@ -9,6 +9,11 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg/main/profile.jpg"
+  width="170" style="border-radius:50%; box-shadow: 0 0 25px rgba(14,117,182,0.6);" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=qoldoshbekovsunnatilla-jpg&label=Profile+Views&color=0e75b6&style=flat-square" />
 </p>
 
