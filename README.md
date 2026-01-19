@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg/main/profile.jpg"
+  <img src="![5395386811602899176_121](https://github.com/user-attachments/assets/8c240127-b437-4567-8c5d-4ed70cc668d8)
+"
   width="170" style="border-radius:50%; box-shadow: 0 0 25px rgba(14,117,182,0.6);" />
 </p>
 
