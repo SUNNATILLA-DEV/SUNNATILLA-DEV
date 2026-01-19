@@ -51,13 +51,7 @@ Mening yondashuvim: **minimal dizayn + kuchli mantiq + yuqori sifat**.
   <img src="https://github-readme-stats.vercel.app/api?username=qoldoshbekovsunnatilla-jpg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qoldoshbekovsunnatilla-jpg&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qoldoshbekovsunnatilla-jpg&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
