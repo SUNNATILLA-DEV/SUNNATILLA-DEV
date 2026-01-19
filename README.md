@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="![5395386811602899176_121](https://github.com/user-attachments/assets/7a10d021-0602-4fc3-ad46-7e8158bcd4d6)"width="170" style="border-radius:50%; box-shadow: 0 0 25px rgba(14,117,182,0.6);" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=qoldoshbekovsunnatilla-jpg&label=Profile+Views&color=0e75b6&style=flat-square" />
 </p>
 
@@ -55,7 +51,13 @@ Mening yondashuvim: **minimal dizayn + kuchli mantiq + yuqori sifat**.
   <img src="https://github-readme-stats.vercel.app/api?username=qoldoshbekovsunnatilla-jpg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qoldoshbekovsunnatilla-jpg&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qoldoshbekovsunnatilla-jpg&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
