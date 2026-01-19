@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="![5395386811602899176_121](https://github.com/user-attachments/assets/7a10d021-0602-4fc3-ad46-7e8158bcd4d6)"
-
-  width="170" style="border-radius:50%; box-shadow: 0 0 25px rgba(14,117,182,0.6);" />
+  <img src="![5395386811602899176_121](https://github.com/user-attachments/assets/7a10d021-0602-4fc3-ad46-7e8158bcd4d6)"width="170" style="border-radius:50%; box-shadow: 0 0 25px rgba(14,117,182,0.6);" />
 </p>
 
 <p align="center">
