@@ -1,63 +1,51 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">
-  Sunnatilla Koldasbekov
-</h1>
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&center=true&vCenter=true&width=650&lines=Frontend+Developer;Clean+Code+%7C+Modern+UI;JavaScript+%26+React;Building+High-Quality+Web+Interfaces" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e1e1e&height=220&section=header&text=Sunnatilla%20Koldasbekov&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qoldoshbekovsunnatilla-jpg&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=700&center=true&vCenter=true&width=720&lines=Elite+Frontend+Developer;Clean+Code+%7C+Modern+UI%2FUX;JavaScript+%26+React;Turning+Ideas+Into+Interfaces" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=qoldoshbekovsunnatilla-jpg&label=Profile+Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+## 🧠 About Me
 
-## 🧑‍💻 About Me
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k4ZXRpZ3R6ZWU3d2lndmZtbW9ib2h1ZXVwY2M1cWZ5dDg5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+Men **Sunnatilla Koldasbekov** — frontend yo‘nalishida ishlaydigan web dasturchiman.  
+Mening yondashuvim: **minimal dizayn + kuchli mantiq + yuqori sifat**.
 
-Men **Sunnatilla Koldasbekov**, frontend yo‘nalishida ishlaydigan web dasturchiman.  
-Asosiy maqsadim — **toza kod**, **yuqori sifatli UI/UX** va **real loyihalar**.
-
-- 🌱 HTML, CSS, JavaScript (ES6+) ustida chuqur ishlayman  
-- ⚛️ React yo‘nalishida rivojlanmoqdaman  
-- 🎯 Professional darajada frontend developer bo‘lish  
-- 🚀 Real loyihalar orqali tajriba to‘playman  
+- 🎯 Fokus: **Professional Frontend Development**
+- 🌱 Stack: **HTML, CSS, JavaScript (ES6+), React**
+- 🧩 UI/UX, performance va scalability
+- 🚀 Real loyihalar orqali o‘sish
 
 ---
 
-<!-- ===================== WHAT I DO ===================== -->
+## ⚡ What I Build
 
-## 🚀 What I Do
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-- 🎨 Pixel-perfect va responsive interfeyslar  
-- ⚡ Yuqori performance va accessibility  
-- 🧠 Dynamic va interaktiv UI  
-- 🛠 Clean architecture & reusable components  
+- 🎨 Pixel-perfect & responsive interfeyslar  
+- ⚛️ Component-based React UI  
+- ⚡ Tez, optimallashtirilgan sahifalar  
+- 🧠 Clean code & reusable structure  
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma&perline=8" />
 </p>
 
 ---
 
-<!-- ===================== STATS ===================== -->
-
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qoldoshbekovsunnatilla-jpg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -67,34 +55,34 @@ Asosiy maqsadim — **toza kod**, **yuqori sifatli UI/UX** va **real loyihalar**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qoldoshbekovsunnatilla-jpg&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qoldoshbekovsunnatilla-jpg&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
-<!-- ===================== PROJECT ===================== -->
+---
 
 ## 🤖 Featured Project — Telegram Bot
 
 <p align="center">
-  <img width="900" alt="SNTechuz Bot Preview" src="https://github.com/user-attachments/assets/a9c8dc12-92c9-4113-83e5-e3effc301d07" />
+  <img width="900" src="https://github.com/user-attachments/assets/a9c8dc12-92c9-4113-83e5-e3effc301d07" />
 </p>
 
 <p align="center">
   <a href="https://t.me/sntech_blok_bot">
-    <img src="https://img.shields.io/badge/OPEN_TELEGRAM_BOT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/LAUNCH_TELEGRAM_BOT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<!-- ===================== CONNECT ===================== -->
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://t.me/SNTechuz">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:qoldoshbekovsunnatilla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/qoldoshbekovsunnatilla-jpg">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -104,5 +92,10 @@ Asosiy maqsadim — **toza kod**, **yuqori sifatli UI/UX** va **real loyihalar**
 ---
 
 <p align="center">
-  <b>Design. Code. Optimize. Repeat.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:0e75b6&height=120&section=footer" />
 </p>
+
+<p align="center">
+  <b>High standards. Clean interfaces. Real results.</b>
+</p>
+
