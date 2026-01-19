@@ -1,70 +1,77 @@
-<!-- Profil banneri -->
+<h1 align="center">Sunnatilla Koldasbekov</h1>
 
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=550&lines=Frontend+Developer;HTML+CSS+JavaScript;Clean+UI+%26+UX;Building+Real+Projects" />
+</p>
 
 ---
 
 ## 🧑‍💻 Who am I?
 
-Men **Sunnatilla Koldasbekov**, frontend yo‘nalishida ishlaydigan yosh web dasturchiman.  
-🌱 Hozirda HTML, CSS, JavaScript texnologiyalarini chuqur o‘rganmoqdaman.  
-🎯 Maqsadim — professional **web dasturchi** bo‘lish va real loyihalar yaratish.
+Men **Sunnatilla Koldasbekov**, frontend yo‘nalishida ishlaydigan web dasturchiman.  
+Asosiy e’tiborim — **toza kod**, **zamonaviy dizayn** va **foydalanuvchi tajribasi**.
+
+- 🌱 Hozirda **HTML, CSS, JavaScript** texnologiyalarini chuqur o‘rganmoqdaman  
+- 🎯 Maqsadim — professional **web dasturchi** bo‘lish  
+- 🚀 Real loyihalar ustida ishlash orqali tajriba oshiryapman  
 
 ---
 
 ## 🚀 What I Do
-- 🎨 Foydalanuvchi interfeyslarini ishlab chiqaman (Frontend Development)
-- 🧠 JavaScript orqali interaktiv sahifalar yarataman
-- 💡 Yangi texnologiyalarni sinab ko‘rishni yoqtiraman
-- ⚙️ O‘rganish jarayonimni GitHub’da hujjatlashtiraman
+
+- 🎨 Foydalanuvchi interfeyslarini ishlab chiqaman (**Frontend Development**)  
+- 🧠 JavaScript orqali **interaktiv va dinamik sahifalar** yarataman  
+- 💡 Yangi texnologiyalarni sinab ko‘rishni yoqtiraman  
+- ⚙️ O‘rganish jarayonimni **GitHub’da hujjatlashtiraman**
 
 ---
 
 ## 🧰 Tech Stack
 
-
-
----
-
-## 🌐 Let's Connect!
-
-- 💬 Telegram:[ (https://t.me/SNTechuz)
-- ✉️ Email: qoldoshbekovsunnatilla@gmail.com
-- 💻 GitHub: [qoldoshbekovsunnatilla-jpg](https://github.com/qoldoshbekovsunnatilla-jpg)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qoldoshbekovsunnatilla-jpg&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qoldoshbekovsunnatilla-jpg&theme=tokyonight&hide_border=true" />
+</p>
 
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoldoshbekovsunnatilla-jpg&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p> -->
+<!-- Agar xohlasang, keyin yana qo‘shamiz
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoldoshbekovsunnatilla-jpg&layout=compact&theme=tokyonight" />
+</p>
+-->
 
 ---
 
+## 🤖 Telegram Bot Project
 
-<img width="1024" height="550" alt="SNTechuzbot textini " src="https://github.com/user-attachments/assets/a9c8dc12-92c9-4113-83e5-e3effc301d07" />
+<p align="center">
+  <img width="800" alt="SNTechuz Bot Preview" src="https://github.com/user-attachments/assets/a9c8dc12-92c9-4113-83e5-e3effc301d07" />
+</p>
 
-Telegram bot: https://t.me/sntech_blok_bot
+<p align="center">
+  👉 <a href="https://t.me/sntech_blok_bot"><b>Telegram botni ochish</b></a>
+</p>
 
+---
 
+## 🌐 Let's Connect
 
-<!--
-**qoldoshbekovsunnatilla-jpg/qoldoshbekovsunnatilla-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Telegram: <a href="https://t.me/SNTechuz">@SNTechuz</a>  
+- ✉️ Email: **qoldoshbekovsunnatilla@gmail.com**  
+- 💻 GitHub: <a href="https://github.com/qoldoshbekovsunnatilla-jpg">qoldoshbekovsunnatilla-jpg</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>Focused on growth, consistency, and real-world experience.</sub>
+</p>
