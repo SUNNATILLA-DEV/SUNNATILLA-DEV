@@ -64,7 +64,7 @@ Mening yondashuvim: **minimal dizayn + kuchli mantiq + yuqori sifat**.
 ## 🤖 Featured Project — Telegram Bot
 
 <p align="center">
-  <img width="900" src="https://github.com/user-attachments/assets/a9c8dc12-92c9-4113-83e5-e3effc301d07" />
+  <img width="500" src="https://github.com/user-attachments/assets/a9c8dc12-92c9-4113-83e5-e3effc301d07" />
 </p>
 
 <p align="center">
